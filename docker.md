@@ -37,7 +37,7 @@ Gokul Dhamodaran
 - Simplifies application deployment.
 - Increases scalability and efficiency.
 - Enhances DevOps practices.
-
+#![bg ](images/shippingcontainers.jpg)
 ---
 
 ## Understanding Containerization
