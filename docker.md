@@ -5,10 +5,15 @@ theme: default
 #   - invert
 #   - lead
 ---
+## Getting Started
+Are you ready, getting started is the first step.
+
+![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+---
 Docker Getting Started
 
-![bg left](https://galaxyproject.github.io/training-material/topics/admin/images/docker_whale.png)
-<!-- ![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) -->
+![bg left](images/docker_whale.png)
 
 <!-- #![bg ](path/to/your/background-image.jpg) -->
 ---
