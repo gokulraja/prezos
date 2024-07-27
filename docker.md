@@ -124,12 +124,18 @@ Gokul Dhamodaran
 
 ---
 
-## Resources and Further Learning
+# Resources and Further Learning
 **Official Docker Documentation**
 - [docs.docker.com](https://docs.docker.com/)
 
-**Docker Labs GitHub**
+**Docker Labs/Tutorials**
+- [https://www.docker.com/101-tutorial/](https://www.docker.com/101-tutorial/)
 - [github.com/docker/labs](https://github.com/docker/labs)
+
+**Docker Hands on Labs**
+- [Play with docker](https://www.docker.com/play-with-docker/)
+- [Docker labs](https://labs.play-with-docker.com/)
+- [K8s labs](https://labs.play-with-k8s.com/)
 
 **Online Courses**
 - Links to relevant courses on platforms like Udemy, Coursera, etc.
