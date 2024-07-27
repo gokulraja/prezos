@@ -5,15 +5,10 @@ theme: default
 #   - invert
 #   - lead
 ---
-## Getting Started
-Are you ready, getting started is the first step.
-
-![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
----
 Docker Getting Started
 
-![bg left](images/docker_whale.png)
+![bg left](https://galaxyproject.github.io/training-material/topics/admin/images/docker_whale.png)
+<!-- ![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) -->
 
 <!-- #![bg ](path/to/your/background-image.jpg) -->
 ---
@@ -129,12 +124,18 @@ Gokul Dhamodaran
 
 ---
 
-## Resources and Further Learning
+# Resources and Further Learning
 **Official Docker Documentation**
 - [docs.docker.com](https://docs.docker.com/)
 
-**Docker Labs GitHub**
+**Docker Labs/Tutorials**
+- [https://www.docker.com/101-tutorial/](https://www.docker.com/101-tutorial/)
 - [github.com/docker/labs](https://github.com/docker/labs)
+
+**Docker Hands on Labs**
+- [Play with docker](https://www.docker.com/play-with-docker/)
+- [Docker labs](https://labs.play-with-docker.com/)
+- [K8s labs](https://labs.play-with-k8s.com/)
 
 **Online Courses**
 - Links to relevant courses on platforms like Udemy, Coursera, etc.
