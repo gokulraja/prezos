@@ -5,10 +5,15 @@ theme: default
 #   - invert
 #   - lead
 ---
+## Getting Started
+Are you ready, getting started is the first step.
+
+![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+---
 Docker Getting Started
 
-![bg left](https://galaxyproject.github.io/training-material/topics/admin/images/docker_whale.png)
-<!-- ![bg right](https://images.unsplash.com/photo-1492313987647-28951c053899?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) -->
+![bg left](images/docker_whale.png)
 
 <!-- #![bg ](path/to/your/background-image.jpg) -->
 ---
@@ -72,9 +77,11 @@ Gokul Dhamodaran
 - Docker Client: The CLI used to interact with Docker.
 - Docker Daemon: The service running on the host machine.
 - Docker Registry: Stores Docker images (Docker Hub).
-
-**How it Works**
+## How it Works
 - The client sends commands to the daemon to build, run, and manage containers.
+---
+
+![bg bottom 75%](./images/docker-architecture.webp)
 
 ---
 
@@ -86,13 +93,16 @@ Gokul Dhamodaran
 - Hands-on learning experience.
 - Step-by-step instructions for various Docker use cases.
 - Covers beginner to advanced topics.
-
+- [Docker labs](https://labs.play-with-docker.com/)
+- [K8s labs](https://labs.play-with-k8s.com/)
 ---
 
 ## Getting Started with Docker Labs
 **Accessing Docker Labs**
 - Visit the Docker Labs GitHub repository.
 - Explore available labs and tutorials.
+- [Play with docker](https://www.docker.com/play-with-docker/)
+
 
 **Example Labs**
 - Getting Started with Docker
@@ -124,7 +134,7 @@ Gokul Dhamodaran
 
 ---
 
-# Resources and Further Learning
+## Resources and Further Learning
 **Official Docker Documentation**
 - [docs.docker.com](https://docs.docker.com/)
 
